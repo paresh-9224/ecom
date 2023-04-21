@@ -1,0 +1,10 @@
+.card-text{
+    color: green;
+    font-weight: 700;
+}
+.card-title{
+    font-weight:900 ;
+}
+*{
+    background-color: blue;
+}
